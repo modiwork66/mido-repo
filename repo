@@ -1,15 +1,12 @@
 {
-  "name": "mido66 Ultimate Repo",
-  "description": "جميع المواقع العربية المحدثة 2026",
+  "name": "Mido66 Euro Fix",
+  "description": "قائمة المواقع العربية المباشرة",
   "manifestVersion": 1,
   "pluginLists": [
-    {
-      "name": "mido66 Providers",
-      "url": "https://raw.githubusercontent.com/recloudstream/arabic/master/plugins.json"
-    }
+    "https://raw.githubusercontent.com/recloudstream/arabic/master/plugins.json"
   ],
   "metadata": {
     "author": "mido66",
-    "version": "1.0.0"
+    "version": "2.0.0"
   }
 }
