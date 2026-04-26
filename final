@@ -1,7 +1,7 @@
 {
-  "name": "Mido66 Repo",
+  "name": "Mido66 Final 2025",
   "pluginLists": [
-    "https://raw.githubusercontent.com/re-3arabi/re-3arabi/main/plugins.json",
-    "https://raw.githubusercontent.com/recloudstream/arabic/master/plugins.json"
+    "https://raw.githubusercontent.com/aymanbest/Arabico/main/plugins.json",
+    "https://raw.githubusercontent.com/Stormunleashed/Cloudstream-Arabic-Providers/master/plugins.json"
   ]
 }
