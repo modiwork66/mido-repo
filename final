@@ -1,9 +1,8 @@
 {
-  "name": "mido66 Ultimate Repo",
-  "metadata": {
-    "author": "mido66"
-  },
+  "name": "mido66 TV",
   "pluginLists": [
-    "https://raw.githubusercontent.com/re-3arabi/re-3arabi/refs/heads/main/plugins.json"
+    {
+      "url": "https://raw.githubusercontent.com/re-3arabi/re-3arabi/refs/heads/main/plugins.json"
+    }
   ]
 }
