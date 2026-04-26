@@ -1,0 +1,6 @@
+{
+  "pluginLists": [
+    "https://raw.githubusercontent.com/re-3arabi/re-3arabi/refs/heads/main/plugins.json",
+    "https://raw.githubusercontent.com/recloudstream/arabic/master/plugins.json"
+  ]
+}
