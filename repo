@@ -1,14 +1,14 @@
 {
-  "name": "Mido66 Euro Fix",
-  "description": "قائمة المواقع العربية المباشرة",
+  "name": "Mido66 Final Fix",
+  "description": "المواقع العربية مباشرة",
   "manifestVersion": 1,
   "pluginLists": [
-    {
-      "url": "https://raw.githubusercontent.com/recloudstream/arabic/master/plugins.json"
-    }
+    "https://raw.githubusercontent.com/recloudstream/arabic/master/plugins.json",
+    "https://raw.githubusercontent.com/hexated/cloudstream-extensions/master/plugins.json",
+    "https://raw.githubusercontent.com/Stormunleashed/Cloudstream-Arabic-Providers/master/plugins.json"
   ],
   "metadata": {
     "author": "mido66",
-    "version": "3.0.0"
+    "version": "4.0.0"
   }
 }
